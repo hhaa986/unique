@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Joara"
 description              : "An amazing website."
 url                      : "https://hhaa986.github.io"
-baseurl                  : "unique"
+baseurl                  : ""
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
