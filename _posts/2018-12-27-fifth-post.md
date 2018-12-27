@@ -5,9 +5,12 @@ categories: jekyll update
 ---
 
 # SSAFY Start Camp 챗봇 퀘스트
-서울_10_최석환, https://seokhwanchoi.github.io
+서울_10_최석환, https://seokhwanchoi.github.io/public/jekyll/update/first-post/
 
 ## I. 스펙(Specification)
+
+주의 : 상상속의 챗봇을 생각해보았습니다.
+
 구현된 어플리케이션의 주요 기능
 (1) 날씨 알림 기능
 - 사용자가 인터페이스를 통해 챗봇에게 식당정보를 요청한다.
